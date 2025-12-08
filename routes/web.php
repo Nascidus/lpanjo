@@ -9,3 +9,7 @@ Route::get('/', function () {
 Route::get('/seguro-automoveis', function () {
     return view('seguro-automoveis');
 });
+
+Route::get('/consorcio-automovel', function () {
+    return view('consorcio-automovel');
+});
