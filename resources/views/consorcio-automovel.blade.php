@@ -11,7 +11,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Consórcio Auto - Anjo Azul Corretora de Seguros</title>
-    <meta name="description" content="Realize o sonho do seu carro novo com consórcio auto da Anjo Azul. Parcelas fixas, sem juros, sem entrada e contemplação garantida. Atendimento especializado desde 2001.">
+    <meta name="description" content="Realize o sonho do seu carro novo com consórcio auto da Anjo Azul. Sem juros, sem entrada e contemplação garantida. Atendimento especializado desde 2001.">
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
@@ -126,7 +126,7 @@
                         <span class="block text-[#F1DE18] mt-2">Realize seu Sonho</span>
                     </h1>
                     <p class="text-base sm:text-lg lg:text-xl text-white/90 mb-6 sm:mb-8 leading-relaxed">
-                        Adquira o carro dos seus sonhos com consórcio auto da Anjo Azul. Parcelas fixas, sem juros, sem entrada e contemplação garantida. Atendimento especializado desde 2001.
+                        Adquira o carro dos seus sonhos com consórcio auto da Anjo Azul. Sem juros, sem entrada e contemplação garantida. Atendimento especializado desde 2001.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-3 sm:gap-4">
                         <a href="https://wa.me/5566999842219" target="_blank" rel="noopener noreferrer" class="bg-[#F1DE18] text-[#002653] px-6 sm:px-8 py-3 sm:py-4 rounded-lg font-bold text-base sm:text-lg hover:bg-[#F1DE18]/90 transition-all transform hover:scale-105 text-center">
@@ -172,7 +172,7 @@
                             </div>
                             <div class="min-w-0 flex-1">
                                 <h3 class="text-lg sm:text-xl font-bold text-[#002653] mb-2">Sem Juros</h3>
-                                <p class="text-sm sm:text-base text-gray-600">Parcelas fixas sem juros, apenas taxa de administração transparente.</p>
+                                <p class="text-sm sm:text-base text-gray-600">Sem juros, apenas taxa de administração transparente no consórcio.</p>
                             </div>
                         </div>
                     </div>
@@ -216,8 +216,8 @@
                                 </svg>
                             </div>
                             <div class="min-w-0 flex-1">
-                                <h3 class="text-lg sm:text-xl font-bold text-[#002653] mb-2">Parcelas Fixas</h3>
-                                <p class="text-sm sm:text-base text-gray-600">Valor da parcela não muda durante todo o consórcio, facilitando o planejamento.</p>
+                                <h3 class="text-lg sm:text-xl font-bold text-[#002653] mb-2">Planejamento Claro</h3>
+                                <p class="text-sm sm:text-base text-gray-600">Valores e taxas definidos no contrato, facilitando prever o investimento mensal.</p>
                             </div>
                         </div>
                     </div>
@@ -331,7 +331,7 @@
                         </div>
                         <div class="ml-4 sm:ml-6 min-w-0 flex-1">
                             <h3 class="text-xl sm:text-2xl font-bold text-[#002653] mb-2">Planejamento Financeiro</h3>
-                            <p class="text-base sm:text-lg text-gray-600">Parcelas fixas facilitam o planejamento financeiro, sem surpresas no orçamento.</p>
+                            <p class="text-base sm:text-lg text-gray-600">Custos previsíveis e sem juros para organizar o orçamento ao longo do consórcio.</p>
                         </div>
                     </div>
 
@@ -346,7 +346,7 @@
                         </div>
                         <div class="ml-4 sm:ml-6 min-w-0 flex-1">
                             <h3 class="text-xl sm:text-2xl font-bold text-[#002653] mb-2">Flexibilidade de Prazo</h3>
-                            <p class="text-base sm:text-lg text-gray-600">Escolha o prazo que melhor se adequa ao seu orçamento, de 30 a 180 meses.</p>
+                            <p class="text-base sm:text-lg text-gray-600">Escolha o prazo que melhor se adequa ao seu orçamento, de 30 até 120 meses.</p>
                         </div>
                     </div>
 
@@ -531,5 +531,6 @@
     </script>
 </body>
 </html>
+
 
 

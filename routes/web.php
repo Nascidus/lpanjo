@@ -10,6 +10,13 @@ Route::get('/seguro-automoveis', function () {
     return view('seguro-automoveis');
 });
 
+Route::get('/consorcio-imobiliario', function () {
+    return view('consorcio-imobiliario');
+});
+
+Route::get('/consorcio-imobiliario', function () {
+    return view('consorcio-imobiliario');
+});
 Route::get('/consorcio-automovel', function () {
     return view('consorcio-automovel');
 });
