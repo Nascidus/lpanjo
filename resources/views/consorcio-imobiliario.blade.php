@@ -232,7 +232,7 @@
                             </div>
                             <div class="min-w-0 flex-1">
                                 <h3 class="text-lg sm:text-xl font-bold text-[#002653] mb-2">Versátil para Imóveis</h3>
-                                <p class="text-sm sm:text-base text-gray-600">Use para casa, apartamento, terreno, construção ou reforma.</p>
+                                <p class="text-sm sm:text-base text-gray-600">Use para compra, reforma ou quitação de financiamento de casa, apartamento ou terreno.</p>
                             </div>
                         </div>
                     </div>
@@ -286,7 +286,7 @@
                         </div>
                         <div class="ml-4 sm:ml-6 min-w-0 flex-1">
                             <h3 class="text-xl sm:text-2xl font-bold text-[#002653] mb-2">Carta de Crédito Imobiliária</h3>
-                            <p class="text-base sm:text-lg text-gray-600">Use a carta para comprar casa, apartamento, terreno ou construir/reformar.</p>
+                            <p class="text-base sm:text-lg text-gray-600">Use a carta para comprar, reformar ou quitar financiamento de casa, apartamento ou terreno.</p>
                         </div>
                     </div>
 
@@ -315,8 +315,8 @@
                             </div>
                         </div>
                         <div class="ml-4 sm:ml-6 min-w-0 flex-1">
-                            <h3 class="text-xl sm:text-2xl font-bold text-[#002653] mb-2">Prazos até 180 Meses</h3>
-                            <p class="text-base sm:text-lg text-gray-600">Escolha prazos entre 30 e 180 meses para adequar ao seu orçamento.</p>
+                            <h3 class="text-xl sm:text-2xl font-bold text-[#002653] mb-2">Prazos até 240 Meses</h3>
+                            <p class="text-base sm:text-lg text-gray-600">Escolha prazos entre 30 e 240 meses para adequar ao seu orçamento.</p>
                         </div>
                     </div>
 
@@ -729,7 +729,7 @@
                             </div>
                             <div class="min-w-0 flex-1">
                                 <h3 class="text-lg sm:text-xl font-bold text-[#002653] mb-2">Use para Casa, Terreno ou Reforma</h3>
-                                <p class="text-sm sm:text-base text-gray-600">Flexibilidade para comprar imóvel novo, usado, terreno ou investir na construção/reforma.</p>
+                                <p class="text-sm sm:text-base text-gray-600">Flexibilidade para comprar imóvel novo, usado, terreno, investir na construção/reforma ou quitar financiamento.</p>
                             </div>
                         </div>
                     </div>
@@ -783,7 +783,7 @@
                         </div>
                         <div class="ml-4 sm:ml-6 min-w-0 flex-1">
                             <h3 class="text-xl sm:text-2xl font-bold text-[#002653] mb-2">Carta de Crédito Imobiliária</h3>
-                            <p class="text-base sm:text-lg text-gray-600">Use a carta de crédito para comprar imóvel novo, usado, terreno ou construir.</p>
+                            <p class="text-base sm:text-lg text-gray-600">Use a carta de crédito para comprar imóvel novo, usado, terreno, construir ou quitar financiamento.</p>
                         </div>
                     </div>
 
@@ -812,8 +812,8 @@
                             </div>
                         </div>
                         <div class="ml-4 sm:ml-6 min-w-0 flex-1">
-                            <h3 class="text-xl sm:text-2xl font-bold text-[#002653] mb-2">Prazos até 180 Meses</h3>
-                            <p class="text-base sm:text-lg text-gray-600">Escolha o prazo que cabe no orçamento, de 30 até 180 meses.</p>
+                            <h3 class="text-xl sm:text-2xl font-bold text-[#002653] mb-2">Prazos até 240 Meses</h3>
+                            <p class="text-base sm:text-lg text-gray-600">Escolha o prazo que cabe no orçamento, de 30 até 240 meses.</p>
                         </div>
                     </div>
 
